@@ -1,0 +1,18 @@
+[
+  {
+    "name": "HOME",
+    "link": "/"
+  },
+  {
+    "name": "SUMMER",
+    "link": "/summer-collection"
+  },
+  {
+    "name": "FALL",
+    "link": "/fall-collection"
+  },
+  {
+    "name": "FULL-COLLECTION",
+    "link": "/full-collection"
+  }
+]

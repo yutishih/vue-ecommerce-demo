@@ -1,0 +1,30 @@
+[
+  {
+    "name": "FALL",
+    "linkUrl": "/#/fall-collection"
+  },
+  {
+    "name": "SUMMER",
+    "linkUrl": "/#/summer-collection"
+  },
+  {
+    "name": "FULL-COLLECTION",
+    "linkUrl": "/#/full-collection"
+  },
+  {
+    "name": "WEIGHT VESTS",
+    "linkUrl": "/#/full-collection"
+  },
+  {
+    "name": "SHOP",
+    "linkUrl": "/#/full-collection"
+  },
+  {
+    "name": "ATHLETES PRO",
+    "linkUrl": "/#/full-collection"
+  },
+  {
+    "name": "MORE",
+    "linkUrl": "/#/full-collection"
+  }
+]

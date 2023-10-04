@@ -1,0 +1,585 @@
+[
+  {
+    "id": 1,
+    "name": "Heria Metal Logo Tee - Blue",
+    "image": "/src/assets/product-tshirt-blue-1.png",
+    "carouselImg": {
+      "cImg1": "/src/assets/product-tshirt-blue-1.png",
+      "cImg2": "/src/assets/product-tshirt-blue-2.png",
+      "cImg3": "/src/assets/product-tshirt-blue-3.png",
+      "cImg4": "/src/assets/product-tshirt-blue-4.png"
+    },
+    "category": "tshirt",
+    "season": {
+      "spring": true,
+      "summer": false,
+      "fall": true,
+      "winter": false
+    },
+    "price": 999,
+    "comingsoon": true,
+    "color": {
+      "black": {
+        "colorImg": "/src/assets/color-1.png",
+        "colorUrl": "/#/products/productId=1"
+      },
+      "white": {
+        "colorImg": "/src/assets/color-2.png",
+        "colorUrl": "/#/products/productId=2"
+      },
+      "pink": {
+        "colorImg": "/src/assets/color-3.png",
+        "colorUrl": "/#/products/productId=3"
+      }
+    },
+    "size": {
+      "small": "S",
+      "medium": "M",
+      "large": "L",
+      "extraLarge": "XL"
+    },
+    "message": {
+      "title": "Description",
+      "desc": "Designed for running, training, and discreet enough for causal wear. This Ts durable mesh fabric was constructed with athletes in mind to train hard while feeling and looking good.",
+      "detail": {
+        "title": "Care",
+        "text1": "100% Cotton",
+        "text2": "Machine Wash Cold",
+        "text3": "Wash With Like Colors",
+        "text4": "Tumble Dry Low",
+        "text5": "Medium Iron",
+        "text6": "Do Not Dry Clean"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Heria Metal Logo Tee - White",
+    "image": "/src/assets/product-tshirt-white-1.png",
+    "carouselImg": {
+      "cImg1": "/src/assets/product-tshirt-white-1.png",
+      "cImg2": "/src/assets/product-tshirt-white-2.png",
+      "cImg3": "/src/assets/product-tshirt-white-3.png",
+      "cImg4": "/src/assets/product-tshirt-white-4.png"
+    },
+    "category": "tshirt",
+    "season": {
+      "spring": true,
+      "summer": true,
+      "fall": false,
+      "winter": false
+    },
+    "price": 999,
+    "comingsoon": false,
+    "color": {
+      "black": {
+        "colorImg": "/src/assets/color-1.png",
+        "colorUrl": "/#/products/productId=1"
+      },
+      "white": {
+        "colorImg": "/src/assets/color-2.png",
+        "colorUrl": "/#/products/productId=2"
+      },
+      "pink": {
+        "colorImg": "/src/assets/color-3.png",
+        "colorUrl": "/#/products/productId=3"
+      }
+    },
+    "size": {
+      "small": "S",
+      "medium": "M",
+      "large": "L",
+      "extraLarge": "XL"
+    },
+    "message": {
+      "title": "Description",
+      "desc": "Designed for running, training, and discreet enough for causal wear. This Ts durable mesh fabric was constructed with athletes in mind to train hard while feeling and looking good.",
+      "detail": {
+        "title": "Care",
+        "text1": "100% Cotton",
+        "text2": "Machine Wash Cold",
+        "text3": "Wash With Like Colors",
+        "text4": "Tumble Dry Low",
+        "text5": "Medium Iron",
+        "text6": "Do Not Dry Clean"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Heria Metal Logo Tee - Black",
+    "image": "/src/assets/product-tshirt-black-1.png",
+    "carouselImg": {
+      "cImg1": "/src/assets/product-tshirt-black-1.png",
+      "cImg2": "/src/assets/product-tshirt-black-2.png",
+      "cImg3": "/src/assets/product-tshirt-black-3.png",
+      "cImg4": "/src/assets/product-tshirt-black-4.png"
+    },
+    "category": "tshirt",
+    "season": {
+      "spring": true,
+      "summer": true,
+      "fall": false,
+      "winter": false
+    },
+    "price": 999,
+    "comingsoon": true,
+    "color": {
+      "black": {
+        "colorImg": "/src/assets/color-1.png",
+        "colorUrl": "/#/products/productId=1"
+      },
+      "white": {
+        "colorImg": "/src/assets/color-2.png",
+        "colorUrl": "/#/products/productId=2"
+      },
+      "pink": {
+        "colorImg": "/src/assets/color-3.png",
+        "colorUrl": "/#/products/productId=3"
+      }
+    },
+    "size": {
+      "small": "S",
+      "medium": "M",
+      "large": "L",
+      "extraLarge": "XL"
+    },
+    "message": {
+      "title": "Description",
+      "desc": "Designed for running, training, and discreet enough for causal wear. This Ts durable mesh fabric was constructed with athletes in mind to train hard while feeling and looking good.",
+      "detail": {
+        "title": "Care",
+        "text1": "100% Cotton",
+        "text2": "Machine Wash Cold",
+        "text3": "Wash With Like Colors",
+        "text4": "Tumble Dry Low",
+        "text5": "Medium Iron",
+        "text6": "Do Not Dry Clean"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Heria Everyday Relaxed Fit Joggers - Grey",
+    "image": "/src/assets/product-pants-grey-1.png",
+    "carouselImg": {
+      "cImg1": "/src/assets/product-pants-grey-1.png",
+      "cImg2": "/src/assets/product-pants-grey-2.png",
+      "cImg3": "/src/assets/product-pants-grey-3.png",
+      "cImg4": "/src/assets/product-pants-grey-4.png"
+    },
+    "category": "pants",
+    "season": {
+      "spring": false,
+      "summer": true,
+      "fall": false,
+      "winter": false
+    },
+    "price": 299,
+    "comingsoon": true,
+    "color": {
+      "black": {
+        "colorImg": "/src/assets/color-1.png",
+        "colorUrl": "/#/products/productId=1"
+      },
+      "white": {
+        "colorImg": "/src/assets/color-2.png",
+        "colorUrl": "/#/products/productId=2"
+      },
+      "pink": {
+        "colorImg": "/src/assets/color-3.png",
+        "colorUrl": "/#/products/productId=3"
+      }
+    },
+    "size": {
+      "small": "S",
+      "medium": "M",
+      "large": "L",
+      "extraLarge": "XL"
+    },
+    "message": {
+      "title": "Description",
+      "desc": "Designed for running, training, and discreet enough for causal wear. This Ts durable mesh fabric was constructed with athletes in mind to train hard while feeling and looking good.",
+      "detail": {
+        "title": "Care",
+        "text1": "100% Cotton",
+        "text2": "Machine Wash Cold",
+        "text3": "Wash With Like Colors",
+        "text4": "Tumble Dry Low",
+        "text5": "Medium Iron",
+        "text6": "Do Not Dry Clean"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "Heria Everyday Relaxed Fit Joggers - black",
+    "image": "/src/assets/product-pants-black-1.png",
+    "carouselImg": {
+      "cImg1": "/src/assets/product-pants-black-1.png",
+      "cImg2": "/src/assets/product-pants-black-2.png",
+      "cImg3": "/src/assets/product-pants-black-3.png",
+      "cImg4": "/src/assets/product-pants-black-4.png"
+    },
+    "category": "pants",
+    "season": {
+      "spring": false,
+      "summer": true,
+      "fall": false,
+      "winter": false
+    },
+    "price": 299,
+    "comingsoon": true,
+    "color": {
+      "black": {
+        "colorImg": "/src/assets/color-1.png",
+        "colorUrl": "/#/products/productId=1"
+      },
+      "white": {
+        "colorImg": "/src/assets/color-2.png",
+        "colorUrl": "/#/products/productId=2"
+      },
+      "pink": {
+        "colorImg": "/src/assets/color-3.png",
+        "colorUrl": "/#/products/productId=3"
+      }
+    },
+    "size": {
+      "small": "S",
+      "medium": "M",
+      "large": "L",
+      "extraLarge": "XL"
+    },
+    "message": {
+      "title": "Description",
+      "desc": "Designed for running, training, and discreet enough for causal wear. This Ts durable mesh fabric was constructed with athletes in mind to train hard while feeling and looking good.",
+      "detail": {
+        "title": "Care",
+        "text1": "100% Cotton",
+        "text2": "Machine Wash Cold",
+        "text3": "Wash With Like Colors",
+        "text4": "Tumble Dry Low",
+        "text5": "Medium Iron",
+        "text6": "Do Not Dry Clean"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "Heria Everyday Relaxed Fit Joggers - white",
+    "image": "/src/assets/product-pants-white-1.png",
+    "carouselImg": {
+      "cImg1": "/src/assets/product-pants-white-1.png",
+      "cImg2": "/src/assets/product-pants-white-2.png",
+      "cImg3": "/src/assets/product-pants-white-3.png",
+      "cImg4": "/src/assets/product-pants-white-4.png"
+    },
+    "category": "pants",
+    "season": {
+      "spring": false,
+      "summer": true,
+      "fall": false,
+      "winter": false
+    },
+    "price": 299,
+    "comingsoon": true,
+    "color": {
+      "black": {
+        "colorImg": "/src/assets/color-1.png",
+        "colorUrl": "/#/products/productId=1"
+      },
+      "white": {
+        "colorImg": "/src/assets/color-2.png",
+        "colorUrl": "/#/products/productId=2"
+      },
+      "pink": {
+        "colorImg": "/src/assets/color-3.png",
+        "colorUrl": "/#/products/productId=3"
+      }
+    },
+    "size": {
+      "small": "S",
+      "medium": "M",
+      "large": "L",
+      "extraLarge": "XL"
+    },
+    "message": {
+      "title": "Description",
+      "desc": "Designed for running, training, and discreet enough for causal wear. This Ts durable mesh fabric was constructed with athletes in mind to train hard while feeling and looking good.",
+      "detail": {
+        "title": "Care",
+        "text1": "100% Cotton",
+        "text2": "Machine Wash Cold",
+        "text3": "Wash With Like Colors",
+        "text4": "Tumble Dry Low",
+        "text5": "Medium Iron",
+        "text6": "Do Not Dry Clean"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "35LB Weight Vest - 3M Reflective - black",
+    "image": "/src/assets/product-vest-black-1.png",
+    "carouselImg": {
+      "cImg1": "/src/assets/product-vest-black-1.png",
+      "cImg2": "/src/assets/product-vest-black-2.png",
+      "cImg3": "/src/assets/product-vest-black-3.png",
+      "cImg4": "/src/assets/product-vest-black-4.png"
+    },
+    "category": "vest",
+    "season": {
+      "spring": false,
+      "summer": true,
+      "fall": false,
+      "winter": false
+    },
+    "price": 299,
+    "comingsoon": true,
+    "color": {
+      "black": {
+        "colorImg": "/src/assets/color-1.png",
+        "colorUrl": "/#/products/productId=1"
+      },
+      "white": {
+        "colorImg": "/src/assets/color-2.png",
+        "colorUrl": "/#/products/productId=2"
+      },
+      "pink": {
+        "colorImg": "/src/assets/color-3.png",
+        "colorUrl": "/#/products/productId=3"
+      }
+    },
+    "size": {
+      "small": "S",
+      "medium": "M",
+      "large": "L",
+      "extraLarge": "XL"
+    },
+    "message": {
+      "title": "Description",
+      "desc": "Designed for running, training, and discreet enough for causal wear. This Ts durable mesh fabric was constructed with athletes in mind to train hard while feeling and looking good.",
+      "detail": {
+        "title": "Care",
+        "text1": "100% Cotton",
+        "text2": "Machine Wash Cold",
+        "text3": "Wash With Like Colors",
+        "text4": "Tumble Dry Low",
+        "text5": "Medium Iron",
+        "text6": "Do Not Dry Clean"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "35LB Weight Vest - 3M Reflective - white",
+    "image": "/src/assets/product-vest-white-1.png",
+    "carouselImg": {
+      "cImg1": "/src/assets/product-vest-white-1.png",
+      "cImg2": "/src/assets/product-vest-white-2.png",
+      "cImg3": "/src/assets/product-vest-white-3.png",
+      "cImg4": "/src/assets/product-vest-white-4.png"
+    },
+    "category": "vest",
+    "season": {
+      "spring": false,
+      "summer": true,
+      "fall": false,
+      "winter": false
+    },
+    "price": 299,
+    "comingsoon": true,
+    "color": {
+      "black": {
+        "colorImg": "/src/assets/color-1.png",
+        "colorUrl": "/#/products/productId=1"
+      },
+      "white": {
+        "colorImg": "/src/assets/color-2.png",
+        "colorUrl": "/#/products/productId=2"
+      },
+      "pink": {
+        "colorImg": "/src/assets/color-3.png",
+        "colorUrl": "/#/products/productId=3"
+      }
+    },
+    "size": {
+      "small": "S",
+      "medium": "M",
+      "large": "L",
+      "extraLarge": "XL"
+    },
+    "message": {
+      "title": "Description",
+      "desc": "Designed for running, training, and discreet enough for causal wear. This Ts durable mesh fabric was constructed with athletes in mind to train hard while feeling and looking good.",
+      "detail": {
+        "title": "Care",
+        "text1": "100% Cotton",
+        "text2": "Machine Wash Cold",
+        "text3": "Wash With Like Colors",
+        "text4": "Tumble Dry Low",
+        "text5": "Medium Iron",
+        "text6": "Do Not Dry Clean"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "35LB Weight Vest - 3M Reflective - yellow",
+    "image": "/src/assets/product-vest-yellow-1.png",
+    "carouselImg": {
+      "cImg1": "/src/assets/product-vest-yellow-1.png",
+      "cImg2": "/src/assets/product-vest-yellow-2.png",
+      "cImg3": "",
+      "cImg4": ""
+    },
+    "category": "vest",
+    "season": {
+      "spring": false,
+      "summer": true,
+      "fall": false,
+      "winter": false
+    },
+    "price": 299,
+    "comingsoon": true,
+    "color": {
+      "black": {
+        "colorImg": "/src/assets/color-1.png",
+        "colorUrl": "/#/products/productId=1"
+      },
+      "white": {
+        "colorImg": "/src/assets/color-2.png",
+        "colorUrl": "/#/products/productId=2"
+      },
+      "pink": {
+        "colorImg": "/src/assets/color-3.png",
+        "colorUrl": "/#/products/productId=3"
+      }
+    },
+    "size": {
+      "small": "S",
+      "medium": "M",
+      "large": "L",
+      "extraLarge": "XL"
+    },
+    "message": {
+      "title": "Description",
+      "desc": "Designed for running, training, and discreet enough for causal wear. This Ts durable mesh fabric was constructed with athletes in mind to train hard while feeling and looking good.",
+      "detail": {
+        "title": "Care",
+        "text1": "100% Cotton",
+        "text2": "Machine Wash Cold",
+        "text3": "Wash With Like Colors",
+        "text4": "Tumble Dry Low",
+        "text5": "Medium Iron",
+        "text6": "Do Not Dry Clean"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "Heria Hoodie - Black",
+    "image": "/src/assets/product-hoodie-black-1.png",
+    "carouselImg": {
+      "cImg1": "/src/assets/product-hoodie-black-1.png",
+      "cImg2": "/src/assets/product-hoodie-black-2.png",
+      "cImg3": "/src/assets/product-hoodie-black-3.png",
+      "cImg4": "/src/assets/product-hoodie-black-4.png"
+    },
+    "category": "vest",
+    "season": {
+      "spring": false,
+      "summer": true,
+      "fall": true,
+      "winter": false
+    },
+    "price": 299,
+    "comingsoon": true,
+    "color": {
+      "black": {
+        "colorImg": "/src/assets/color-1.png",
+        "colorUrl": "/#/products/productId=1"
+      },
+      "white": {
+        "colorImg": "/src/assets/color-2.png",
+        "colorUrl": "/#/products/productId=2"
+      },
+      "pink": {
+        "colorImg": "/src/assets/color-3.png",
+        "colorUrl": "/#/products/productId=3"
+      }
+    },
+    "size": {
+      "small": "S",
+      "medium": "M",
+      "large": "L",
+      "extraLarge": "XL"
+    },
+    "message": {
+      "title": "Description",
+      "desc": "Designed for running, training, and discreet enough for causal wear. This Ts durable mesh fabric was constructed with athletes in mind to train hard while feeling and looking good.",
+      "detail": {
+        "title": "Care",
+        "text1": "100% Cotton",
+        "text2": "Machine Wash Cold",
+        "text3": "Wash With Like Colors",
+        "text4": "Tumble Dry Low",
+        "text5": "Medium Iron",
+        "text6": "Do Not Dry Clean"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "Heria Hoodie - Sand",
+    "image": "/src/assets/product-hoodie-sand-1.png",
+    "carouselImg": {
+      "cImg1": "/src/assets/product-hoodie-sand-1.png",
+      "cImg2": "/src/assets/product-hoodie-sand-2.png",
+      "cImg3": "/src/assets/product-hoodie-sand-3.png",
+      "cImg4": "/src/assets/product-hoodie-sand-4.png"
+    },
+    "category": "vest",
+    "season": {
+      "spring": false,
+      "summer": false,
+      "fall": true,
+      "winter": false
+    },
+    "price": 299,
+    "comingsoon": true,
+    "color": {
+      "black": {
+        "colorImg": "/src/assets/color-1.png",
+        "colorUrl": "/#/products/productId=1"
+      },
+      "white": {
+        "colorImg": "/src/assets/color-2.png",
+        "colorUrl": "/#/products/productId=2"
+      },
+      "pink": {
+        "colorImg": "/src/assets/color-3.png",
+        "colorUrl": "/#/products/productId=3"
+      }
+    },
+    "size": {
+      "small": "S",
+      "medium": "M",
+      "large": "L",
+      "extraLarge": "XL"
+    },
+    "message": {
+      "title": "Description",
+      "desc": "Designed for running, training, and discreet enough for causal wear. This Ts durable mesh fabric was constructed with athletes in mind to train hard while feeling and looking good.",
+      "detail": {
+        "title": "Care",
+        "text1": "100% Cotton",
+        "text2": "Machine Wash Cold",
+        "text3": "Wash With Like Colors",
+        "text4": "Tumble Dry Low",
+        "text5": "Medium Iron",
+        "text6": "Do Not Dry Clean"
+      }
+    }
+  }
+]

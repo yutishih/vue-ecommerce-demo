@@ -1,0 +1,42 @@
+[
+  {
+    "name": "WEIGHT VESTS",
+    "imageUrl": "/src/assets/category1.jpg",
+    "linkUrl": "/#/full-collection"
+  },
+  {
+    "name": "T-SHIRTS & TANK TOPS",
+    "imageUrl": "/src/assets/category2.jpg",
+    "linkUrl": "/#/full-collection"
+  },
+  {
+    "name": "SHORTS",
+    "imageUrl": "/src/assets/category3.jpg",
+    "linkUrl": "/#/full-collection"
+  },
+  {
+    "name": "WOMEN",
+    "imageUrl": "/src/assets/category4.jpg",
+    "linkUrl": "/#/full-collection"
+  },
+  {
+    "name": "HOODIES",
+    "imageUrl": "/src/assets/category5.jpg",
+    "linkUrl": "/#/full-collection"
+  },
+  {
+    "name": "JOGGERS & PANTS",
+    "imageUrl": "/src/assets/category6.jpg",
+    "linkUrl": "/#/full-collection"
+  },
+  {
+    "name": "JACKETS",
+    "imageUrl": "/src/assets/category7.jpg",
+    "linkUrl": "/#/full-collection"
+  },
+  {
+    "name": "UP TO 50% OFF CLEARANCE",
+    "imageUrl": "/src/assets/category8.jpg",
+    "linkUrl": "/#/full-collection"
+  }
+]

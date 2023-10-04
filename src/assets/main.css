@@ -1,0 +1,19 @@
+@import './base.css';
+
+#app {
+  max-width: 100vw;
+  width: 100%;
+  overflow: hidden;
+}
+
+svg.carousel__icon {
+  z-index: 10;
+}
+
+.home-featured-category svg.carousel__icon {
+  color: #fff;
+}
+
+.home-product-carousel svg.carousel__icon {
+  color: #111;
+}

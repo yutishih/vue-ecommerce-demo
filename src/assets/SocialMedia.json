@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Instagram",
+    "image": "/src/assets/instagram.png",
+    "link": "/"
+  },
+  {
+    "name": "Facebook",
+    "image": "/src/assets/facebook.png",
+    "link": "/"
+  },
+  {
+    "name": "Twitter",
+    "image": "/src/assets/twitter.png",
+    "link": "/"
+  },
+  {
+    "name": "Youtube",
+    "image": "/src/assets/youtube.png",
+    "link": "/"
+  }
+]
