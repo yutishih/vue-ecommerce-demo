@@ -10,7 +10,7 @@ import ProductTshirtCarousel from "../components/ProductTshirtCarousel.vue";
     <div class="main-banner-wrap">
       <div class="main-banner-img">
         <div class="main-title">
-          <h1>Weight Vest</h1>
+          <h1>WEIGHT VEST</h1>
           <p>
             Improve your running speed, endurance, and muscular strength with a
             Heria weight vest.
@@ -72,7 +72,7 @@ import ProductTshirtCarousel from "../components/ProductTshirtCarousel.vue";
 }
 .main-banner-img {
   position: relative;
-  background-image: url(../assets/test1.jpg);
+  background-image: url(../assets/images/banner_1.jpg);
   width: 100%;
   height: 100vh;
   background-size: cover;
@@ -110,7 +110,7 @@ import ProductTshirtCarousel from "../components/ProductTshirtCarousel.vue";
 .sub-banner-1 .background-image {
   position: relative;
   height: 550px;
-  background-image: url(../assets/subbanner1.png);
+  background-image: url(../assets/images/banner_2.jpg);
   background-size: cover;
 }
 .sub-banner-1 .background-image::before {
@@ -141,8 +141,11 @@ import ProductTshirtCarousel from "../components/ProductTshirtCarousel.vue";
 
 .sub-banner-2 .background-image {
   position: relative;
-  background-image: url(../assets/subbanner2.png);
+  background-image: url(../assets/images/banner_3.jpg);
   height: 550px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 30%;
 }
 .sub-banner-2 .background-image::before {
   content: "";
@@ -187,10 +190,10 @@ import ProductTshirtCarousel from "../components/ProductTshirtCarousel.vue";
 
 .sub-banner-3 .background-image {
   position: relative;
-  background-image: url(../assets/subbanner3.png);
+  background-image: url(../assets/images/banner_4.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: 50% 0;
   height: 750px;
 }
 .sub-banner-3 .background-image::before {

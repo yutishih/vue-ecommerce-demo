@@ -75,7 +75,7 @@ onUnmounted(() => {
 <style scoped>
 .main-banner-img {
   position: relative;
-  background-image: url(../assets/summer-collection-banner.png);
+  background-image: url(../assets/images/banner_5.jpg);
   width: 100%;
   height: 60vh;
   display: flex;
@@ -83,7 +83,7 @@ onUnmounted(() => {
   align-items: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: 50% 50%;
+  background-position: 50% 10%;
 }
 .main-banner-img::before {
   content: "";

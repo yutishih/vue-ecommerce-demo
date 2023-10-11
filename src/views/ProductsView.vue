@@ -350,6 +350,7 @@ const recommendedItems = computed(() => {
 }
 .item-wrap {
   text-align: center;
+  padding: 0 10px;
 }
 .item-wrap a {
   text-decoration: none;
@@ -453,10 +454,12 @@ const recommendedItems = computed(() => {
   .add-to-cart-button button {
     width: 100%;
   }
-
   .item-display .item-wrap {
     display: inline-block;
     margin-right: 10px;
+  }
+  .coming-soon-tag {
+    display: none;
   }
 }
 </style>

@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "name": "Heria Metal Logo Tee - Blue",
-    "image": "/src/assets/product-tshirt-blue-1.png",
+    "name": "Square Textured Striped",
+    "image": "/src/assets/images/product_1_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/product-tshirt-blue-1.png",
-      "cImg2": "/src/assets/product-tshirt-blue-2.png",
-      "cImg3": "/src/assets/product-tshirt-blue-3.png",
-      "cImg4": "/src/assets/product-tshirt-blue-4.png"
+      "cImg1": "/src/assets/images/product_1_1.jpg",
+      "cImg2": "/src/assets/images/product_1_2.jpg",
+      "cImg3": "/src/assets/images/product_1_3.jpg",
+      "cImg4": "/src/assets/images/product_1_4.jpg"
     },
     "category": "tshirt",
     "season": {
@@ -54,13 +54,13 @@
   },
   {
     "id": 2,
-    "name": "Heria Metal Logo Tee - White",
-    "image": "/src/assets/product-tshirt-white-1.png",
+    "name": "Checkered Crop Top",
+    "image": "/src/assets/images/product_2_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/product-tshirt-white-1.png",
-      "cImg2": "/src/assets/product-tshirt-white-2.png",
-      "cImg3": "/src/assets/product-tshirt-white-3.png",
-      "cImg4": "/src/assets/product-tshirt-white-4.png"
+      "cImg1": "/src/assets/images/product_2_1.jpg",
+      "cImg2": "/src/assets/images/product_2_2.jpg",
+      "cImg3": "/src/assets/images/product_2_3.jpg",
+      "cImg4": "/src/assets/images/product_2_4.jpg"
     },
     "category": "tshirt",
     "season": {
@@ -107,13 +107,13 @@
   },
   {
     "id": 3,
-    "name": "Heria Metal Logo Tee - Black",
-    "image": "/src/assets/product-tshirt-black-1.png",
+    "name": "Printed Long-sleeve Dress",
+    "image": "/src/assets/images/product_3_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/product-tshirt-black-1.png",
-      "cImg2": "/src/assets/product-tshirt-black-2.png",
-      "cImg3": "/src/assets/product-tshirt-black-3.png",
-      "cImg4": "/src/assets/product-tshirt-black-4.png"
+      "cImg1": "/src/assets/images/product_3_1.jpg",
+      "cImg2": "/src/assets/images/product_3_2.jpg",
+      "cImg3": "/src/assets/images/product_3_3.jpg",
+      "cImg4": "/src/assets/images/product_3_4.jpg"
     },
     "category": "tshirt",
     "season": {
@@ -160,13 +160,13 @@
   },
   {
     "id": 4,
-    "name": "Heria Everyday Relaxed Fit Joggers - Grey",
-    "image": "/src/assets/product-pants-grey-1.png",
+    "name": "Balloon-sleeved Shirt",
+    "image": "/src/assets/images/product_4_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/product-pants-grey-1.png",
-      "cImg2": "/src/assets/product-pants-grey-2.png",
-      "cImg3": "/src/assets/product-pants-grey-3.png",
-      "cImg4": "/src/assets/product-pants-grey-4.png"
+      "cImg1": "/src/assets/images/product_4_1.jpg",
+      "cImg2": "/src/assets/images/product_4_2.jpg",
+      "cImg3": "/src/assets/images/product_4_3.jpg",
+      "cImg4": "/src/assets/images/product_4_4.jpg"
     },
     "category": "pants",
     "season": {
@@ -213,13 +213,13 @@
   },
   {
     "id": 5,
-    "name": "Heria Everyday Relaxed Fit Joggers - black",
-    "image": "/src/assets/product-pants-black-1.png",
+    "name": "Colorful Long-sleeve Dress",
+    "image": "/src/assets/images/product_5_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/product-pants-black-1.png",
-      "cImg2": "/src/assets/product-pants-black-2.png",
-      "cImg3": "/src/assets/product-pants-black-3.png",
-      "cImg4": "/src/assets/product-pants-black-4.png"
+      "cImg1": "/src/assets/images/product_5_1.jpg",
+      "cImg2": "/src/assets/images/product_5_2.jpg",
+      "cImg3": "/src/assets/images/product_5_3.jpg",
+      "cImg4": "/src/assets/images/product_5_4.jpg"
     },
     "category": "pants",
     "season": {
@@ -266,13 +266,13 @@
   },
   {
     "id": 6,
-    "name": "Heria Everyday Relaxed Fit Joggers - white",
-    "image": "/src/assets/product-pants-white-1.png",
+    "name": "Balloon-sleeved Shirt",
+    "image": "/src/assets/images/product_6_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/product-pants-white-1.png",
-      "cImg2": "/src/assets/product-pants-white-2.png",
-      "cImg3": "/src/assets/product-pants-white-3.png",
-      "cImg4": "/src/assets/product-pants-white-4.png"
+      "cImg1": "/src/assets/images/product_6_1.jpg",
+      "cImg2": "/src/assets/images/product_6_2.jpg",
+      "cImg3": "/src/assets/images/product_6_3.jpg",
+      "cImg4": "/src/assets/images/product_6_4.jpg"
     },
     "category": "pants",
     "season": {
@@ -319,13 +319,13 @@
   },
   {
     "id": 7,
-    "name": "35LB Weight Vest - 3M Reflective - black",
-    "image": "/src/assets/product-vest-black-1.png",
+    "name": "Colorful Long-sleeve Dress",
+    "image": "/src/assets/images/product_7_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/product-vest-black-1.png",
-      "cImg2": "/src/assets/product-vest-black-2.png",
-      "cImg3": "/src/assets/product-vest-black-3.png",
-      "cImg4": "/src/assets/product-vest-black-4.png"
+      "cImg1": "/src/assets/images/product_7_1.jpg",
+      "cImg2": "/src/assets/images/product_7_2.jpg",
+      "cImg3": "/src/assets/images/product_7_3.jpg",
+      "cImg4": "/src/assets/images/product_7_4.jpg"
     },
     "category": "vest",
     "season": {
@@ -372,13 +372,13 @@
   },
   {
     "id": 8,
-    "name": "35LB Weight Vest - 3M Reflective - white",
-    "image": "/src/assets/product-vest-white-1.png",
+    "name": "Square Textured Striped",
+    "image": "/src/assets/images/product_8_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/product-vest-white-1.png",
-      "cImg2": "/src/assets/product-vest-white-2.png",
-      "cImg3": "/src/assets/product-vest-white-3.png",
-      "cImg4": "/src/assets/product-vest-white-4.png"
+      "cImg1": "/src/assets/images/product_8_1.jpg",
+      "cImg2": "/src/assets/images/product_8_2.jpg",
+      "cImg3": "/src/assets/images/product_8_3.jpg",
+      "cImg4": "/src/assets/images/product_8_4.jpg"
     },
     "category": "vest",
     "season": {
@@ -425,13 +425,13 @@
   },
   {
     "id": 9,
-    "name": "35LB Weight Vest - 3M Reflective - yellow",
-    "image": "/src/assets/product-vest-yellow-1.png",
+    "name": "Colorful wind Coats",
+    "image": "/src/assets/images/product_9_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/product-vest-yellow-1.png",
-      "cImg2": "/src/assets/product-vest-yellow-2.png",
-      "cImg3": "",
-      "cImg4": ""
+      "cImg1": "/src/assets/images/product_9_1.jpg",
+      "cImg2": "/src/assets/images/product_9_2.jpg",
+      "cImg3": "/src/assets/images/product_9_3.jpg",
+      "cImg4": "/src/assets/images/product_9_4.jpg"
     },
     "category": "vest",
     "season": {
@@ -478,13 +478,13 @@
   },
   {
     "id": 10,
-    "name": "Heria Hoodie - Black",
-    "image": "/src/assets/product-hoodie-black-1.png",
+    "name": "Short Sleeve Sweater",
+    "image": "/src/assets/images/product_10_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/product-hoodie-black-1.png",
-      "cImg2": "/src/assets/product-hoodie-black-2.png",
-      "cImg3": "/src/assets/product-hoodie-black-3.png",
-      "cImg4": "/src/assets/product-hoodie-black-4.png"
+      "cImg1": "/src/assets/images/product_10_1.jpg",
+      "cImg2": "/src/assets/images/product_10_2.jpg",
+      "cImg3": "/src/assets/images/product_10_3.jpg",
+      "cImg4": "/src/assets/images/product_10_4.jpg"
     },
     "category": "vest",
     "season": {
@@ -531,13 +531,13 @@
   },
   {
     "id": 11,
-    "name": "Heria Hoodie - Sand",
-    "image": "/src/assets/product-hoodie-sand-1.png",
+    "name": "Summer Oversized Shirt",
+    "image": "/src/assets/images/product_11_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/product-hoodie-sand-1.png",
-      "cImg2": "/src/assets/product-hoodie-sand-2.png",
-      "cImg3": "/src/assets/product-hoodie-sand-3.png",
-      "cImg4": "/src/assets/product-hoodie-sand-4.png"
+      "cImg1": "/src/assets/images/product_11_1.jpg",
+      "cImg2": "/src/assets/images/product_11_2.jpg",
+      "cImg3": "/src/assets/images/product_11_3.jpg",
+      "cImg4": "/src/assets/images/product_11_4.jpg"
     },
     "category": "vest",
     "season": {

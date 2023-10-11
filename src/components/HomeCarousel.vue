@@ -1,15 +1,8 @@
 <script setup lang="ts">
-import { effect, ref } from "vue";
+import { ref } from "vue";
 import { Carousel, Navigation, Slide } from "vue3-carousel";
 import homeFeaturedItems from "@/assets/HomeFeaturedItems.json";
 import "vue3-carousel/dist/carousel.css";
-
-// const name = "Breakpoints";
-// const components = {
-//   Carousel,
-//   Slide,
-//   Navigation,
-// };
 
 const settings = ref({
   itemsToShow: 1,

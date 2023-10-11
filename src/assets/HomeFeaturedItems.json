@@ -1,42 +1,42 @@
 [
   {
-    "name": "WEIGHT VESTS",
-    "imageUrl": "/src/assets/category1.jpg",
+    "name": "WORKOUT SUITS",
+    "imageUrl": "/src/assets/images/category_1.jpg",
     "linkUrl": "/#/full-collection"
   },
   {
-    "name": "T-SHIRTS & TANK TOPS",
-    "imageUrl": "/src/assets/category2.jpg",
+    "name": "TRAINING SUITS",
+    "imageUrl": "/src/assets/images/category_2.jpg",
     "linkUrl": "/#/full-collection"
   },
   {
-    "name": "SHORTS",
-    "imageUrl": "/src/assets/category3.jpg",
+    "name": "PANTS",
+    "imageUrl": "/src/assets/images/category_3.jpg",
+    "linkUrl": "/#/full-collection"
+  },
+  {
+    "name": "CASUAL",
+    "imageUrl": "/src/assets/images/category_4.jpg",
     "linkUrl": "/#/full-collection"
   },
   {
     "name": "WOMEN",
-    "imageUrl": "/src/assets/category4.jpg",
-    "linkUrl": "/#/full-collection"
-  },
-  {
-    "name": "HOODIES",
-    "imageUrl": "/src/assets/category5.jpg",
+    "imageUrl": "/src/assets/images/category_5.jpg",
     "linkUrl": "/#/full-collection"
   },
   {
     "name": "JOGGERS & PANTS",
-    "imageUrl": "/src/assets/category6.jpg",
+    "imageUrl": "/src/assets/images/category_6.jpg",
     "linkUrl": "/#/full-collection"
   },
   {
-    "name": "JACKETS",
-    "imageUrl": "/src/assets/category7.jpg",
+    "name": "SHIRTS",
+    "imageUrl": "/src/assets/images/category_7.jpg",
     "linkUrl": "/#/full-collection"
   },
   {
     "name": "UP TO 50% OFF CLEARANCE",
-    "imageUrl": "/src/assets/category8.jpg",
+    "imageUrl": "/src/assets/images/category_8.jpg",
     "linkUrl": "/#/full-collection"
   }
 ]
