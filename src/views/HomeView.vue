@@ -10,10 +10,10 @@ import ProductTshirtCarousel from "../components/ProductTshirtCarousel.vue";
     <div class="main-banner-wrap">
       <div class="main-banner-img">
         <div class="main-title">
-          <h1>WEIGHT VEST</h1>
+          <h1>CHOOSE YOUR FASHION</h1>
           <p>
-            Improve your running speed, endurance, and muscular strength with a
-            Heria weight vest.
+            Walk dive charts good items what's anyway stakeholder it. Those
+            that's call important incentivize before.
           </p>
           <a href="/#/full-collection">SHOP NOW</a>
         </div>
@@ -40,11 +40,8 @@ import ProductTshirtCarousel from "../components/ProductTshirtCarousel.vue";
       <div class="content-wrap">
         <div class="background-image">
           <div class="text-wrap">
-            <h2>T-SHIRTS & TANK TOPS</h2>
-            <p>
-              Exceptional softness and luxurious cotton fabrics paired with
-              original designs.
-            </p>
+            <h2>NEW: GEO SEAMLESS</h2>
+            <p>Feel free to focus in the latest lightweight collection.</p>
             <a href="/#/full-collection">SHOP NOW</a>
           </div>
         </div>
@@ -55,6 +52,11 @@ import ProductTshirtCarousel from "../components/ProductTshirtCarousel.vue";
       <div class="content-wrap">
         <div class="background-image">
           <div class="text-wrap">
+            <h2>NEW WOMEN FASHION</h2>
+            <p>
+              Exceptional softness and luxurious cotton fabrics paired with
+              original designs.
+            </p>
             <a href="/#/full-collection">SHOP NOW</a>
           </div>
         </div>
@@ -91,7 +93,7 @@ import ProductTshirtCarousel from "../components/ProductTshirtCarousel.vue";
 }
 .main-title p {
   font-size: 20px;
-  margin: 0 0 20px 0;
+  margin: 0 0 30px 0;
 }
 .main-title a {
   color: #fff;
@@ -171,7 +173,7 @@ import ProductTshirtCarousel from "../components/ProductTshirtCarousel.vue";
 .sub-banner-2 .text-wrap p {
   color: #fff;
   font-size: 20px;
-  margin: 0 0 20px 0;
+  margin: 0 0 30px 0;
 }
 
 .sub-banner-2 .text-wrap a {
@@ -213,6 +215,15 @@ import ProductTshirtCarousel from "../components/ProductTshirtCarousel.vue";
   transform: translate(-50%, 0);
   text-align: center;
 }
+.sub-banner-3 .text-wrap h2 {
+  color: #fff;
+  font-size: 42px;
+}
+.sub-banner-3 .text-wrap p {
+  color: #fff;
+  font-size: 20px;
+  margin: 0 0 30px 0;
+}
 .sub-banner-3 .text-wrap a {
   color: #fff;
   text-decoration: none;
@@ -243,10 +254,19 @@ import ProductTshirtCarousel from "../components/ProductTshirtCarousel.vue";
   .sub-banner-1 .text-wrap h2 {
     font-size: 28px;
   }
+  .sub-banner-1 .background-image {
+    background-position: center;
+  }
   .sub-banner-2 .text-wrap {
     width: 400px;
   }
   .sub-banner-2 .text-wrap h2 {
+    font-size: 28px;
+  }
+  .sub-banner-3 .text-wrap {
+    width: 400px;
+  }
+  .sub-banner-3 .text-wrap h2 {
     font-size: 28px;
   }
 }
