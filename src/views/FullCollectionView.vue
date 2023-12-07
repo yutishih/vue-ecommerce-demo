@@ -70,7 +70,7 @@ onUnmounted(() => {
 <style scoped>
 .main-banner-img {
   position: relative;
-  background-image: url(../assets/images/banner_7.jpg);
+  background-image: url(/banner_7.jpg);
   width: 100%;
   height: 60vh;
   display: flex;
