@@ -10,10 +10,10 @@ import ProductTshirtCarousel from "../components/ProductTshirtCarousel.vue";
     <div class="main-banner-wrap">
       <div class="main-banner-img">
         <div class="main-title">
-          <h1>WEIGHT VEST</h1>
+          <h1>YOUR FASHION</h1>
           <p>
-            Improve your running speed, endurance, and muscular strength with a
-            Heria weight vest.
+            Style is a way to say who you are without speaking. Fashion is the
+            armor to survive the reality of life
           </p>
           <a href="/full-collection">SHOP NOW</a>
         </div>
