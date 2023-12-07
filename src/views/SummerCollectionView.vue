@@ -66,7 +66,7 @@ onUnmounted(() => {
         </div>
       </div>
       <div v-if="isLoading && !allItemsLoaded" class="loading-icon-wrap">
-        <img src="../assets/loadingIcon.gif" alt="Loading..." />
+        <img src="/loadingIcon.gif" alt="Loading..." />
       </div>
     </div>
   </div>

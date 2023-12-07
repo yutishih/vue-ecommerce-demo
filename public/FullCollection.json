@@ -4,10 +4,10 @@
     "name": "Square Textured Striped",
     "image": "/images/product_1_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/images/product_1_1.jpg",
-      "cImg2": "/src/assets/images/product_1_2.jpg",
-      "cImg3": "/src/assets/images/product_1_3.jpg",
-      "cImg4": "/src/assets/images/product_1_4.jpg"
+      "cImg1": "/images/product_1_1.jpg",
+      "cImg2": "/images/product_1_2.jpg",
+      "cImg3": "/images/product_1_3.jpg",
+      "cImg4": "/images/product_1_4.jpg"
     },
     "category": "tshirt",
     "season": {
@@ -20,15 +20,15 @@
     "comingsoon": true,
     "color": {
       "black": {
-        "colorImg": "/src/assets/color-1.png",
+        "colorImg": "/color-1.png",
         "colorUrl": "/#/products/productId=1"
       },
       "white": {
-        "colorImg": "/src/assets/color-2.png",
+        "colorImg": "/color-2.png",
         "colorUrl": "/#/products/productId=2"
       },
       "pink": {
-        "colorImg": "/src/assets/color-3.png",
+        "colorImg": "/color-3.png",
         "colorUrl": "/#/products/productId=3"
       }
     },
@@ -55,12 +55,12 @@
   {
     "id": 2,
     "name": "Checkered Crop Top",
-    "image": "/src/assets/images/product_2_1.jpg",
+    "image": "/images/product_2_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/images/product_2_1.jpg",
-      "cImg2": "/src/assets/images/product_2_2.jpg",
-      "cImg3": "/src/assets/images/product_2_3.jpg",
-      "cImg4": "/src/assets/images/product_2_4.jpg"
+      "cImg1": "/images/product_2_1.jpg",
+      "cImg2": "/images/product_2_2.jpg",
+      "cImg3": "/images/product_2_3.jpg",
+      "cImg4": "/images/product_2_4.jpg"
     },
     "category": "tshirt",
     "season": {
@@ -73,15 +73,15 @@
     "comingsoon": false,
     "color": {
       "black": {
-        "colorImg": "/src/assets/color-1.png",
+        "colorImg": "/color-1.png",
         "colorUrl": "/#/products/productId=1"
       },
       "white": {
-        "colorImg": "/src/assets/color-2.png",
+        "colorImg": "/color-2.png",
         "colorUrl": "/#/products/productId=2"
       },
       "pink": {
-        "colorImg": "/src/assets/color-3.png",
+        "colorImg": "/color-3.png",
         "colorUrl": "/#/products/productId=3"
       }
     },
@@ -108,12 +108,12 @@
   {
     "id": 3,
     "name": "Printed Long-sleeve Dress",
-    "image": "/src/assets/images/product_3_1.jpg",
+    "image": "/images/product_3_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/images/product_3_1.jpg",
-      "cImg2": "/src/assets/images/product_3_2.jpg",
-      "cImg3": "/src/assets/images/product_3_3.jpg",
-      "cImg4": "/src/assets/images/product_3_4.jpg"
+      "cImg1": "/images/product_3_1.jpg",
+      "cImg2": "/images/product_3_2.jpg",
+      "cImg3": "/images/product_3_3.jpg",
+      "cImg4": "/images/product_3_4.jpg"
     },
     "category": "tshirt",
     "season": {
@@ -126,15 +126,15 @@
     "comingsoon": true,
     "color": {
       "black": {
-        "colorImg": "/src/assets/color-1.png",
+        "colorImg": "/color-1.png",
         "colorUrl": "/#/products/productId=1"
       },
       "white": {
-        "colorImg": "/src/assets/color-2.png",
+        "colorImg": "/color-2.png",
         "colorUrl": "/#/products/productId=2"
       },
       "pink": {
-        "colorImg": "/src/assets/color-3.png",
+        "colorImg": "/color-3.png",
         "colorUrl": "/#/products/productId=3"
       }
     },
@@ -161,12 +161,12 @@
   {
     "id": 4,
     "name": "Balloon-sleeved Shirt",
-    "image": "/src/assets/images/product_4_1.jpg",
+    "image": "/images/product_4_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/images/product_4_1.jpg",
-      "cImg2": "/src/assets/images/product_4_2.jpg",
-      "cImg3": "/src/assets/images/product_4_3.jpg",
-      "cImg4": "/src/assets/images/product_4_4.jpg"
+      "cImg1": "/images/product_4_1.jpg",
+      "cImg2": "/images/product_4_2.jpg",
+      "cImg3": "/images/product_4_3.jpg",
+      "cImg4": "/images/product_4_4.jpg"
     },
     "category": "pants",
     "season": {
@@ -179,15 +179,15 @@
     "comingsoon": true,
     "color": {
       "black": {
-        "colorImg": "/src/assets/color-1.png",
+        "colorImg": "/color-1.png",
         "colorUrl": "/#/products/productId=1"
       },
       "white": {
-        "colorImg": "/src/assets/color-2.png",
+        "colorImg": "/color-2.png",
         "colorUrl": "/#/products/productId=2"
       },
       "pink": {
-        "colorImg": "/src/assets/color-3.png",
+        "colorImg": "/color-3.png",
         "colorUrl": "/#/products/productId=3"
       }
     },
@@ -214,12 +214,12 @@
   {
     "id": 5,
     "name": "Colorful Long-sleeve Dress",
-    "image": "/src/assets/images/product_5_1.jpg",
+    "image": "/images/product_5_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/images/product_5_1.jpg",
-      "cImg2": "/src/assets/images/product_5_2.jpg",
-      "cImg3": "/src/assets/images/product_5_3.jpg",
-      "cImg4": "/src/assets/images/product_5_4.jpg"
+      "cImg1": "/images/product_5_1.jpg",
+      "cImg2": "/images/product_5_2.jpg",
+      "cImg3": "/images/product_5_3.jpg",
+      "cImg4": "/images/product_5_4.jpg"
     },
     "category": "pants",
     "season": {
@@ -232,15 +232,15 @@
     "comingsoon": true,
     "color": {
       "black": {
-        "colorImg": "/src/assets/color-1.png",
+        "colorImg": "/color-1.png",
         "colorUrl": "/#/products/productId=1"
       },
       "white": {
-        "colorImg": "/src/assets/color-2.png",
+        "colorImg": "/color-2.png",
         "colorUrl": "/#/products/productId=2"
       },
       "pink": {
-        "colorImg": "/src/assets/color-3.png",
+        "colorImg": "/color-3.png",
         "colorUrl": "/#/products/productId=3"
       }
     },
@@ -267,12 +267,12 @@
   {
     "id": 6,
     "name": "Balloon-sleeved Shirt",
-    "image": "/src/assets/images/product_6_1.jpg",
+    "image": "/images/product_6_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/images/product_6_1.jpg",
-      "cImg2": "/src/assets/images/product_6_2.jpg",
-      "cImg3": "/src/assets/images/product_6_3.jpg",
-      "cImg4": "/src/assets/images/product_6_4.jpg"
+      "cImg1": "/images/product_6_1.jpg",
+      "cImg2": "/images/product_6_2.jpg",
+      "cImg3": "/images/product_6_3.jpg",
+      "cImg4": "/images/product_6_4.jpg"
     },
     "category": "pants",
     "season": {
@@ -285,15 +285,15 @@
     "comingsoon": true,
     "color": {
       "black": {
-        "colorImg": "/src/assets/color-1.png",
+        "colorImg": "/color-1.png",
         "colorUrl": "/#/products/productId=1"
       },
       "white": {
-        "colorImg": "/src/assets/color-2.png",
+        "colorImg": "/color-2.png",
         "colorUrl": "/#/products/productId=2"
       },
       "pink": {
-        "colorImg": "/src/assets/color-3.png",
+        "colorImg": "/color-3.png",
         "colorUrl": "/#/products/productId=3"
       }
     },
@@ -320,12 +320,12 @@
   {
     "id": 7,
     "name": "Colorful Long-sleeve Dress",
-    "image": "/src/assets/images/product_7_1.jpg",
+    "image": "/images/product_7_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/images/product_7_1.jpg",
-      "cImg2": "/src/assets/images/product_7_2.jpg",
-      "cImg3": "/src/assets/images/product_7_3.jpg",
-      "cImg4": "/src/assets/images/product_7_4.jpg"
+      "cImg1": "/images/product_7_1.jpg",
+      "cImg2": "/images/product_7_2.jpg",
+      "cImg3": "/images/product_7_3.jpg",
+      "cImg4": "/images/product_7_4.jpg"
     },
     "category": "vest",
     "season": {
@@ -338,15 +338,15 @@
     "comingsoon": true,
     "color": {
       "black": {
-        "colorImg": "/src/assets/color-1.png",
+        "colorImg": "/color-1.png",
         "colorUrl": "/#/products/productId=1"
       },
       "white": {
-        "colorImg": "/src/assets/color-2.png",
+        "colorImg": "/color-2.png",
         "colorUrl": "/#/products/productId=2"
       },
       "pink": {
-        "colorImg": "/src/assets/color-3.png",
+        "colorImg": "/color-3.png",
         "colorUrl": "/#/products/productId=3"
       }
     },
@@ -373,12 +373,12 @@
   {
     "id": 8,
     "name": "Square Textured Striped",
-    "image": "/src/assets/images/product_8_1.jpg",
+    "image": "/images/product_8_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/images/product_8_1.jpg",
-      "cImg2": "/src/assets/images/product_8_2.jpg",
-      "cImg3": "/src/assets/images/product_8_3.jpg",
-      "cImg4": "/src/assets/images/product_8_4.jpg"
+      "cImg1": "/images/product_8_1.jpg",
+      "cImg2": "/images/product_8_2.jpg",
+      "cImg3": "/images/product_8_3.jpg",
+      "cImg4": "/images/product_8_4.jpg"
     },
     "category": "vest",
     "season": {
@@ -391,15 +391,15 @@
     "comingsoon": true,
     "color": {
       "black": {
-        "colorImg": "/src/assets/color-1.png",
+        "colorImg": "/color-1.png",
         "colorUrl": "/#/products/productId=1"
       },
       "white": {
-        "colorImg": "/src/assets/color-2.png",
+        "colorImg": "/color-2.png",
         "colorUrl": "/#/products/productId=2"
       },
       "pink": {
-        "colorImg": "/src/assets/color-3.png",
+        "colorImg": "/color-3.png",
         "colorUrl": "/#/products/productId=3"
       }
     },
@@ -426,12 +426,12 @@
   {
     "id": 9,
     "name": "Colorful wind Coats",
-    "image": "/src/assets/images/product_9_1.jpg",
+    "image": "/images/product_9_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/images/product_9_1.jpg",
-      "cImg2": "/src/assets/images/product_9_2.jpg",
-      "cImg3": "/src/assets/images/product_9_3.jpg",
-      "cImg4": "/src/assets/images/product_9_4.jpg"
+      "cImg1": "/images/product_9_1.jpg",
+      "cImg2": "/images/product_9_2.jpg",
+      "cImg3": "/images/product_9_3.jpg",
+      "cImg4": "/images/product_9_4.jpg"
     },
     "category": "vest",
     "season": {
@@ -444,15 +444,15 @@
     "comingsoon": true,
     "color": {
       "black": {
-        "colorImg": "/src/assets/color-1.png",
+        "colorImg": "/color-1.png",
         "colorUrl": "/#/products/productId=1"
       },
       "white": {
-        "colorImg": "/src/assets/color-2.png",
+        "colorImg": "/color-2.png",
         "colorUrl": "/#/products/productId=2"
       },
       "pink": {
-        "colorImg": "/src/assets/color-3.png",
+        "colorImg": "/color-3.png",
         "colorUrl": "/#/products/productId=3"
       }
     },
@@ -479,12 +479,12 @@
   {
     "id": 10,
     "name": "Short Sleeve Sweater",
-    "image": "/src/assets/images/product_10_1.jpg",
+    "image": "/images/product_10_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/images/product_10_1.jpg",
-      "cImg2": "/src/assets/images/product_10_2.jpg",
-      "cImg3": "/src/assets/images/product_10_3.jpg",
-      "cImg4": "/src/assets/images/product_10_4.jpg"
+      "cImg1": "/images/product_10_1.jpg",
+      "cImg2": "/images/product_10_2.jpg",
+      "cImg3": "/images/product_10_3.jpg",
+      "cImg4": "/images/product_10_4.jpg"
     },
     "category": "vest",
     "season": {
@@ -497,15 +497,15 @@
     "comingsoon": true,
     "color": {
       "black": {
-        "colorImg": "/src/assets/color-1.png",
+        "colorImg": "/color-1.png",
         "colorUrl": "/#/products/productId=1"
       },
       "white": {
-        "colorImg": "/src/assets/color-2.png",
+        "colorImg": "/color-2.png",
         "colorUrl": "/#/products/productId=2"
       },
       "pink": {
-        "colorImg": "/src/assets/color-3.png",
+        "colorImg": "/color-3.png",
         "colorUrl": "/#/products/productId=3"
       }
     },
@@ -532,12 +532,12 @@
   {
     "id": 11,
     "name": "Summer Oversized Shirt",
-    "image": "/src/assets/images/product_11_1.jpg",
+    "image": "/images/product_11_1.jpg",
     "carouselImg": {
-      "cImg1": "/src/assets/images/product_11_1.jpg",
-      "cImg2": "/src/assets/images/product_11_2.jpg",
-      "cImg3": "/src/assets/images/product_11_3.jpg",
-      "cImg4": "/src/assets/images/product_11_4.jpg"
+      "cImg1": "/images/product_11_1.jpg",
+      "cImg2": "/images/product_11_2.jpg",
+      "cImg3": "/images/product_11_3.jpg",
+      "cImg4": "/images/product_11_4.jpg"
     },
     "category": "vest",
     "season": {
@@ -550,15 +550,15 @@
     "comingsoon": true,
     "color": {
       "black": {
-        "colorImg": "/src/assets/color-1.png",
+        "colorImg": "/color-1.png",
         "colorUrl": "/#/products/productId=1"
       },
       "white": {
-        "colorImg": "/src/assets/color-2.png",
+        "colorImg": "/color-2.png",
         "colorUrl": "/#/products/productId=2"
       },
       "pink": {
-        "colorImg": "/src/assets/color-3.png",
+        "colorImg": "/color-3.png",
         "colorUrl": "/#/products/productId=3"
       }
     },
