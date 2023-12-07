@@ -6,17 +6,17 @@ import "vue3-carousel/dist/carousel.css";
 
 const settings = ref({
   itemsToShow: 1,
-  snapAlign: "center",
+  snapAlign: <any>"center",
 });
 
 const breakpoints = ref({
   700: {
     itemsToShow: 3.5,
-    snapAlign: "center",
+    snapAlign: <any>"center",
   },
   1024: {
     itemsToShow: 6,
-    snapAlign: "start",
+    snapAlign: <any>"start",
   },
 });
 </script>
