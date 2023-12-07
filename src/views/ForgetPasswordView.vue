@@ -33,7 +33,7 @@ export default {
         <button class="forget-password-button" type="submit">SUBMIT</button>
       </form>
       <div class="message-links">
-        <div class="forget-password-cancel"><a href="#/login">Cancel</a></div>
+        <div class="forget-password-cancel"><a href="/login">Cancel</a></div>
       </div>
     </div>
   </div>

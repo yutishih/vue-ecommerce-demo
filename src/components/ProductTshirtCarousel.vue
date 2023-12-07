@@ -36,7 +36,7 @@ const breakpoints = ref({
               <div class="coming-soon-tag" v-if="item.comingsoon">
                 COMING SOON
               </div>
-              <a :href="'#/products/productId=' + item.id"
+              <a :href="'/products/productId=' + item.id"
                 ><img :src="item.image" />
                 <div class="text-wrap">
                   <h4>{{ item.name }}</h4>
@@ -52,7 +52,7 @@ const breakpoints = ref({
         </template>
       </Carousel>
       <div class="cta">
-        <a href="/#/full-collection">SHOP NOW</a>
+        <a href="/full-collection">SHOP NOW</a>
       </div>
     </div>
   </div>

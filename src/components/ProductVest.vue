@@ -7,7 +7,7 @@ import items from "@/assets/FullCollection.json";
     <div class="product-width">
       <div class="product-wrap">
         <div class="product-item" v-for="item in items" :key="item.name">
-          <a :href="'#/products/productId=' + item.id">
+          <a :href="'/products/productId=' + item.id">
             <div class="coming-soon-tag" v-if="item.comingsoon">
               COMING SOON
             </div>
@@ -20,7 +20,7 @@ import items from "@/assets/FullCollection.json";
         </div>
       </div>
       <div class="product-button">
-        <a href="/#/full-collection">VIEW COLLECTION</a>
+        <a href="/full-collection">VIEW COLLECTION</a>
       </div>
     </div>
   </div>

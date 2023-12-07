@@ -67,9 +67,9 @@ const handleLogout = () => {
       </form>
       <div class="message-links">
         <div class="forget-password-message">
-          <a href="#/forget-password">Forgot your password?</a>
+          <a href="/forget-password">Forgot your password?</a>
         </div>
-        <div class="create-account"><a href="#/signup">Create account</a></div>
+        <div class="create-account"><a href="/signup">Create account</a></div>
       </div>
     </div>
   </div>

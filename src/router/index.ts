@@ -1,5 +1,5 @@
-import { createRouter, createWebHashHistory } from "vue-router";
-// import { createRouter, createWebHistory } from "vue-router";
+// import { createRouter, createWebHashHistory } from "vue-router";
+import { createRouter, createWebHistory } from "vue-router";
 import HomeView from "../views/HomeView.vue";
 import TestView from "../views/TestView.vue";
 import SignupView from "../views/SignupView.vue";
@@ -11,8 +11,8 @@ import FullCollectionView from "../views/FullCollectionView.vue";
 import ProductsView from "../views/ProductsView.vue";
 
 const router = createRouter({
-  history: createWebHashHistory(import.meta.env.BASE_URL),
-  // history: createWebHistory(import.meta.env.BASE_URL),
+  // history: createWebHashHistory(import.meta.env.BASE_URL),
+  history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     {
       path: "/",

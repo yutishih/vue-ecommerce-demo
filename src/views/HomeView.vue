@@ -15,7 +15,7 @@ import ProductTshirtCarousel from "../components/ProductTshirtCarousel.vue";
             Improve your running speed, endurance, and muscular strength with a
             Heria weight vest.
           </p>
-          <a href="/#/full-collection">SHOP NOW</a>
+          <a href="/full-collection">SHOP NOW</a>
         </div>
       </div>
     </div>
@@ -45,7 +45,7 @@ import ProductTshirtCarousel from "../components/ProductTshirtCarousel.vue";
               Exceptional softness and luxurious cotton fabrics paired with
               original designs.
             </p>
-            <a href="/#/full-collection">SHOP NOW</a>
+            <a href="/full-collection">SHOP NOW</a>
           </div>
         </div>
       </div>
@@ -55,7 +55,7 @@ import ProductTshirtCarousel from "../components/ProductTshirtCarousel.vue";
       <div class="content-wrap">
         <div class="background-image">
           <div class="text-wrap">
-            <a href="/#/full-collection">SHOP NOW</a>
+            <a href="/full-collection">SHOP NOW</a>
           </div>
         </div>
       </div>

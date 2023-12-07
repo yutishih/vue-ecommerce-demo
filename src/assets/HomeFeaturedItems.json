@@ -2,41 +2,41 @@
   {
     "name": "WORKOUT SUITS",
     "imageUrl": "/images/category_1.jpg",
-    "linkUrl": "/#/full-collection"
+    "linkUrl": "/full-collection"
   },
   {
     "name": "TRAINING SUITS",
     "imageUrl": "/images/category_2.jpg",
-    "linkUrl": "/#/full-collection"
+    "linkUrl": "/full-collection"
   },
   {
     "name": "PANTS",
     "imageUrl": "/images/category_3.jpg",
-    "linkUrl": "/#/full-collection"
+    "linkUrl": "/full-collection"
   },
   {
     "name": "CASUAL",
     "imageUrl": "/images/category_4.jpg",
-    "linkUrl": "/#/full-collection"
+    "linkUrl": "/full-collection"
   },
   {
     "name": "WOMEN",
     "imageUrl": "/images/category_5.jpg",
-    "linkUrl": "/#/full-collection"
+    "linkUrl": "/full-collection"
   },
   {
     "name": "JOGGERS & PANTS",
     "imageUrl": "/images/category_6.jpg",
-    "linkUrl": "/#/full-collection"
+    "linkUrl": "/full-collection"
   },
   {
     "name": "SHIRTS",
     "imageUrl": "/images/category_7.jpg",
-    "linkUrl": "/#/full-collection"
+    "linkUrl": "/full-collection"
   },
   {
     "name": "UP TO 50% OFF CLEARANCE",
     "imageUrl": "/images/category_8.jpg",
-    "linkUrl": "/#/full-collection"
+    "linkUrl": "/full-collection"
   }
 ]

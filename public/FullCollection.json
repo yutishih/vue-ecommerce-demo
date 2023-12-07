@@ -21,15 +21,15 @@
     "color": {
       "black": {
         "colorImg": "/color-1.png",
-        "colorUrl": "/#/products/productId=1"
+        "colorUrl": "/products/productId=1"
       },
       "white": {
         "colorImg": "/color-2.png",
-        "colorUrl": "/#/products/productId=2"
+        "colorUrl": "/products/productId=2"
       },
       "pink": {
         "colorImg": "/color-3.png",
-        "colorUrl": "/#/products/productId=3"
+        "colorUrl": "/products/productId=3"
       }
     },
     "size": {
@@ -74,15 +74,15 @@
     "color": {
       "black": {
         "colorImg": "/color-1.png",
-        "colorUrl": "/#/products/productId=1"
+        "colorUrl": "/products/productId=1"
       },
       "white": {
         "colorImg": "/color-2.png",
-        "colorUrl": "/#/products/productId=2"
+        "colorUrl": "/products/productId=2"
       },
       "pink": {
         "colorImg": "/color-3.png",
-        "colorUrl": "/#/products/productId=3"
+        "colorUrl": "/products/productId=3"
       }
     },
     "size": {
@@ -127,15 +127,15 @@
     "color": {
       "black": {
         "colorImg": "/color-1.png",
-        "colorUrl": "/#/products/productId=1"
+        "colorUrl": "/products/productId=1"
       },
       "white": {
         "colorImg": "/color-2.png",
-        "colorUrl": "/#/products/productId=2"
+        "colorUrl": "/products/productId=2"
       },
       "pink": {
         "colorImg": "/color-3.png",
-        "colorUrl": "/#/products/productId=3"
+        "colorUrl": "/products/productId=3"
       }
     },
     "size": {
@@ -180,15 +180,15 @@
     "color": {
       "black": {
         "colorImg": "/color-1.png",
-        "colorUrl": "/#/products/productId=1"
+        "colorUrl": "/products/productId=1"
       },
       "white": {
         "colorImg": "/color-2.png",
-        "colorUrl": "/#/products/productId=2"
+        "colorUrl": "/products/productId=2"
       },
       "pink": {
         "colorImg": "/color-3.png",
-        "colorUrl": "/#/products/productId=3"
+        "colorUrl": "/products/productId=3"
       }
     },
     "size": {
@@ -233,15 +233,15 @@
     "color": {
       "black": {
         "colorImg": "/color-1.png",
-        "colorUrl": "/#/products/productId=1"
+        "colorUrl": "/products/productId=1"
       },
       "white": {
         "colorImg": "/color-2.png",
-        "colorUrl": "/#/products/productId=2"
+        "colorUrl": "/products/productId=2"
       },
       "pink": {
         "colorImg": "/color-3.png",
-        "colorUrl": "/#/products/productId=3"
+        "colorUrl": "/products/productId=3"
       }
     },
     "size": {
@@ -286,15 +286,15 @@
     "color": {
       "black": {
         "colorImg": "/color-1.png",
-        "colorUrl": "/#/products/productId=1"
+        "colorUrl": "/products/productId=1"
       },
       "white": {
         "colorImg": "/color-2.png",
-        "colorUrl": "/#/products/productId=2"
+        "colorUrl": "/products/productId=2"
       },
       "pink": {
         "colorImg": "/color-3.png",
-        "colorUrl": "/#/products/productId=3"
+        "colorUrl": "/products/productId=3"
       }
     },
     "size": {
@@ -339,15 +339,15 @@
     "color": {
       "black": {
         "colorImg": "/color-1.png",
-        "colorUrl": "/#/products/productId=1"
+        "colorUrl": "/products/productId=1"
       },
       "white": {
         "colorImg": "/color-2.png",
-        "colorUrl": "/#/products/productId=2"
+        "colorUrl": "/products/productId=2"
       },
       "pink": {
         "colorImg": "/color-3.png",
-        "colorUrl": "/#/products/productId=3"
+        "colorUrl": "/products/productId=3"
       }
     },
     "size": {
@@ -392,15 +392,15 @@
     "color": {
       "black": {
         "colorImg": "/color-1.png",
-        "colorUrl": "/#/products/productId=1"
+        "colorUrl": "/products/productId=1"
       },
       "white": {
         "colorImg": "/color-2.png",
-        "colorUrl": "/#/products/productId=2"
+        "colorUrl": "/products/productId=2"
       },
       "pink": {
         "colorImg": "/color-3.png",
-        "colorUrl": "/#/products/productId=3"
+        "colorUrl": "/products/productId=3"
       }
     },
     "size": {
@@ -445,15 +445,15 @@
     "color": {
       "black": {
         "colorImg": "/color-1.png",
-        "colorUrl": "/#/products/productId=1"
+        "colorUrl": "/products/productId=1"
       },
       "white": {
         "colorImg": "/color-2.png",
-        "colorUrl": "/#/products/productId=2"
+        "colorUrl": "/products/productId=2"
       },
       "pink": {
         "colorImg": "/color-3.png",
-        "colorUrl": "/#/products/productId=3"
+        "colorUrl": "/products/productId=3"
       }
     },
     "size": {
@@ -498,15 +498,15 @@
     "color": {
       "black": {
         "colorImg": "/color-1.png",
-        "colorUrl": "/#/products/productId=1"
+        "colorUrl": "/products/productId=1"
       },
       "white": {
         "colorImg": "/color-2.png",
-        "colorUrl": "/#/products/productId=2"
+        "colorUrl": "/products/productId=2"
       },
       "pink": {
         "colorImg": "/color-3.png",
-        "colorUrl": "/#/products/productId=3"
+        "colorUrl": "/products/productId=3"
       }
     },
     "size": {
@@ -551,15 +551,15 @@
     "color": {
       "black": {
         "colorImg": "/color-1.png",
-        "colorUrl": "/#/products/productId=1"
+        "colorUrl": "/products/productId=1"
       },
       "white": {
         "colorImg": "/color-2.png",
-        "colorUrl": "/#/products/productId=2"
+        "colorUrl": "/products/productId=2"
       },
       "pink": {
         "colorImg": "/color-3.png",
-        "colorUrl": "/#/products/productId=3"
+        "colorUrl": "/products/productId=3"
       }
     },
     "size": {

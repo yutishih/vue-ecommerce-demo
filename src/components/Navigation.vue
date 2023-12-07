@@ -90,7 +90,7 @@ const handleLogOutClick = () => {
   >
     <header :class="{ 'dark-text-navbar': props.darkTextStyle }">
       <div class="logo-wrap">
-        <a href="/#/">
+        <a href="/">
           <img
             alt="Vue logo"
             class="logo"
@@ -169,8 +169,8 @@ const handleLogOutClick = () => {
         </ul>
         <!-- Event Delegation -->
         <ul class="mobile-user-wrap" @click="handleNavToggle">
-          <li><a href="/#/login">Log in</a></li>
-          <li><a href="/#/signup">Create account</a></li>
+          <li><a href="/login">Log in</a></li>
+          <li><a href="/signup">Create account</a></li>
           <li><a @click="handleSearchToggle">Search</a></li>
         </ul>
       </div>
