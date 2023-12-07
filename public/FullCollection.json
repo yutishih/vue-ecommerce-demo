@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Square Textured Striped",
-    "image": "/src/assets/product_1_1.jpg",
+    "image": "/product_1_1.jpg",
     "carouselImg": {
       "cImg1": "/src/assets/images/product_1_1.jpg",
       "cImg2": "/src/assets/images/product_1_2.jpg",
