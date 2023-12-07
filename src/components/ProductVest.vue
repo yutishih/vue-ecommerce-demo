@@ -40,10 +40,13 @@ import items from "@/assets/FullCollection.json";
 }
 
 .product-item {
+  position: relative;
   box-sizing: border-box;
 }
 .coming-soon-tag {
   position: absolute;
+  top: 0;
+  left: 0;
   padding: 5px 10px;
   background-color: #ebe7ea;
 }

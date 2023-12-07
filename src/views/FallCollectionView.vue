@@ -112,7 +112,9 @@ onUnmounted(() => {
   grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 2rem 1rem;
 }
-
+.product-item {
+  position: relative;
+}
 .product-item a {
   text-decoration: none;
   color: #111;
@@ -129,6 +131,8 @@ onUnmounted(() => {
 
 .coming-soon-tag {
   position: absolute;
+  top: 0;
+  left: 0;
   padding: 5px 10px;
   background-color: #ebe7ea;
 }

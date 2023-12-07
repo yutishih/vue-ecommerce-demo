@@ -61,8 +61,13 @@ const breakpoints = ref({
   max-width: 1200px;
   margin: 50px auto;
 }
+.item-wrap {
+  position: relative;
+}
 .coming-soon-tag {
   position: absolute;
+  top: 0;
+  left: 0;
   padding: 5px 10px;
   background-color: #ebe7ea;
 }

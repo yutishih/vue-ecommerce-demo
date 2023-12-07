@@ -349,6 +349,7 @@ const recommendedItems = computed(() => {
   min-width: min-content;
 }
 .item-wrap {
+  position: relative;
   text-align: center;
   padding: 0 10px;
 }
@@ -382,6 +383,8 @@ const recommendedItems = computed(() => {
 
 .coming-soon-tag {
   position: absolute;
+  top: 0;
+  left: 0;
   padding: 5px 10px;
   background-color: #ebe7ea;
 }
