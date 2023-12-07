@@ -37,7 +37,7 @@ import socialMedia from "@/assets/SocialMedia.json";
                   <a :href="icon.link"><img :src="icon.image" /></a>
                 </div>
               </div>
-              <div class="copyright"><p>© 2023, Yuti Shih.</p></div>
+              <div class="copyright"><p>© 2023, Chris Heria.</p></div>
             </div>
           </div>
         </div>
